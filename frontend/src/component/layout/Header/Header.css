@@ -1,0 +1,42 @@
+.hero{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    
+
+}
+
+.logo{
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: aqua;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+ 
+}
+
+.ul {
+    list-style-type: none;
+    display: inline;
+    padding: 10px 20px;
+    color: rgb(78, 26, 201);
+ 
+    font-weight: bold;
+   
+}
+.ul a{
+    text-decoration: none;
+    margin-right: 20px;
+    
+   
+}
+
+   
+
